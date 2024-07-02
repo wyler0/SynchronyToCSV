@@ -1,8 +1,8 @@
 # Installation
 1) Clone the repo
-`git clone XX`
+`git clone https://github.com/wyler0/SynchronyToCSV.git`
 2) Cd into cloned dir
-`cd XX`
+`cd SynchronyToCSV`
 3) Setup env
 `conda env create -f "env.yml"`
 4) Enable execution file mode on parse.py
